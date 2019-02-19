@@ -1,0 +1,7 @@
+C:\Users\Acer-PC\source\repos\Indexer\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+C:\Users\Acer-PC\source\repos\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Acer-PC\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\Acer-PC\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\Acer-PC\source\repos\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Acer-PC\source\repos\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\Acer-PC\source\repos\Indexer\Indexer\obj\Debug\Indexer.pdb
